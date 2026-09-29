@@ -34,8 +34,8 @@ class LoginScreen extends JFrame{
 		c1 = new Cursor(HAND_CURSOR);
 		img1 = new JLabel();
 		img2 = new JLabel();
-		ImageIcon ic1 = new ImageIcon("C:/Users/HP/Downloads/Downloads 1968 to 2025/Icon/User_name.png");
-		ImageIcon ic2 = new ImageIcon("C:/Users/HP/Downloads/Downloads 1968 to 2025/Icon/Password.png");
+		ImageIcon ic1 = new ImageIcon("/User_name.png");
+		ImageIcon ic2 = new ImageIcon("/Password.png");
 		
 			// Coponent's Locations
 		Font f = new Font("Arial", Font.PLAIN, 20);
